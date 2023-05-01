@@ -10,7 +10,7 @@ The goal of this project is to build a robust recommendation system that can hel
 ## Alogorithms
 - Glove - The GloVe is a technique for producing vector representations of words using unsupervised learning. Training is done using corpus-based global word-word co-occurrence statistics, and the resulting representations show off some of the word vector space’s fascinating linear substructures.
 
-![image](https://user-images.githubusercontent.com/57043103/235396254-23acf871-037c-4647-858b-82fc3ce5d6de.png)
+![image](https://user-images.githubusercontent.com/57043103/235417204-35b34a01-4ce6-49e3-9aed-fe326d1cd35c.png)
 
 - TF-IDF - Term Frequency – Inverse Document Frequency (TF-IDF) is a popular statistical technique utilized in natural language processing and information retrieval to assess a term’s significance in a document compared to a group of documents, known as a corpus. The technique employs a text vectorization process to transform words in a text document into numerical values that denote their importance.
 
@@ -28,6 +28,9 @@ The goal of this project is to build a robust recommendation system that can hel
 
 ![image](https://user-images.githubusercontent.com/57043103/235396242-cf5cc326-9794-4f75-aac6-2a78f5844e32.png)
 
+- Architectural Diagram
+
+![image](https://user-images.githubusercontent.com/57043103/235417308-1a1dfc5b-17ab-44cb-893c-49a7b6fb4be7.png)
   
 ## Dataset link
 https://www.kaggle.com/code/ngohoantamhuy/food-recommendation-systems
