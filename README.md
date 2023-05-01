@@ -1,4 +1,4 @@
-# CMPE 256 Team 4 Receipe Recommender Systems
+# CMPE 256 Team 4 Receipe Rating Systems
 
 ## Introduction
 The abundance of food choices available today can make it difficult for consumers to decide what to eat. To address this problem, food recommendation systems have been developed to help users discover new food items that match their preferences. A food recommendation system predicts a user's preference for a food item based on their past interactions with similar items.
